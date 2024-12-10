@@ -1,16 +1,18 @@
-## Hi there 👋
+# Project Name
+Galactic Invasion
 
-<!--
-**S-W-4reel/S-W-4reel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Video Demo
+(https://www.youtube.com/shorts/d7l-qMgGUE0)
 
-Here are some ideas to get you started:
+## Description
+its a simple pong game made in love2d lua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- it has keys menu and sound settings
+
+## Installation
+Instructions for installing the project:
+1. This is the installation process for love2d lua (https://www.youtube.com/watch?v=IV60_ZeazSc)
+2. Download the file 
+3. Add the project in you VScode and save the file 
+4. Enjoy  
