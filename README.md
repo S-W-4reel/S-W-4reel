@@ -2,7 +2,7 @@
 Galactic Invasion
 
 ## Video Demo
-(https://www.youtube.com/shorts/d7l-qMgGUE0)
+(https://www.youtube.com/shorts/3RB_8vtjQ-s)
 
 ## Description
 its a simple pong game made in love2d lua.
